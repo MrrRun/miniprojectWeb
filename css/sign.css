@@ -8,6 +8,7 @@
 }
 body{
   background-color: whitesmoke;
+  height: 100vh;
 }
 
 .container-nav{
@@ -130,42 +131,23 @@ body{
   width: 50%;
   margin: auto;
 }
-.first-container{
-  width: 100%;
-  height: 657px;
-  /* background-color: aquamarine; */
-  margin-top: 50px;
-  display: flex;
 
-  & img{
-    width: 508px;
-    height: 657px;
-    margin-right: 60px;
-    border-radius: 10px;
-  }
-}
-.paragraph{
-  margin-left: 60px;
-  padding: 40px;
 
-  & h1{
-    font-size: 64px;
-    margin-bottom: 35px;
-  }
 
-  & h6{
-    font-size: 28px;
-    font-weight: 400;
-    color: rgb(120, 118, 118);
-    margin-bottom: 35px;
-  }
 
-  & p{
-    font-size: 26px;
-    color: grey;
-    width: 70%;
-  }
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
 footer{
   background-color: rgb(0, 0, 0);
   width: 100%;
@@ -213,4 +195,3 @@ hr{
     font-weight: 400;
   }
 }
-
